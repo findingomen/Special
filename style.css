@@ -178,9 +178,11 @@ header .user .post {
   flex-wrap: wrap;
   padding: 5rem 0;
 }
+
 .counter {
   padding-top: 5rem;
 }
+
 .info {
   padding-bottom: 14rem;
 }
@@ -213,7 +215,7 @@ header .user .post {
 }
 
 .about .row .counter .box {
-  width: 20rem;
+  width: 18rem;
   background: #222;
   text-align: center;
   padding: 2rem;
